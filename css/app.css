@@ -1,0 +1,16 @@
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+li {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.byline {
+    font-size:small;
+    font-weight:bold;
+}
